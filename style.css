@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.home{
+    
+    
+    height: 100vh;
+    background: url(./image/maldives-1993704_1280.jpg) no-repeat center;
+    background-size:cover;
+
+}
+    @media (max-width: 600px) {
+@media screen and (max-width: 600px) {
+    .mh {
+        flex-direction: column;
+   
+    }
+        
+    }
+}
+
+.g1{
+    margin-right: auto;
+}
+
+
+
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+
+   
+
+
+ .k1
+{
+    max-width: 300px;
+    height: 215px;
+    margin: 30px 10px;
+    padding: 20px 15px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.5);
+    transition: 0.3s ease-in-out;
+}
+.k1:hover
+{
+    height: 450px;
+}
+.k1 .imgContainer
+{
+    position: relative;
+    width:250px;
+    height:250px;
+    top:-50px;
+    left:10px;
+    z-index: 1;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+}
+ .k1 .imgContainer img
+{
+    max-width: 100%;
+    border-radius: 4px;
+}
+.k1 .content
+{
+    position: relative;
+    margin-top: -140px;
+    padding: 10px 15px;
+    text-align: center;
+    color:#111;
+    visibility: hidden;
+    opacity: 0;
+    pointer-events: none;
+    transition:0.3s
+}
+.container .card:hover .content
+{
+    visibility: visible;
+    opacity: 1;
+    margin-top: -40px;
+    transition-delay: 0.4s;
+}
+
+@media (max-width: 330px){
+    .container .card .imgContainer{
+        left: -2px;
+    }
+}  */
+
+.i2{
+    color: rgb(0, 132, 248);
+    font-size: 20px;
+}
+.i3{
+    color: rgb(220, 0, 77)
+    font-size: 20px;
+}
+.drop{
+    background: transparent;
+    font-size: 20px;
+} 
